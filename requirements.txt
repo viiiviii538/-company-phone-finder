@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+lxml
+rapidfuzz
+python-dotenv
+pandas
+pydantic
+chardet
